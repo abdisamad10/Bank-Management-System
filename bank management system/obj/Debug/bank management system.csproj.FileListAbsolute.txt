@@ -1,0 +1,52 @@
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\bin\Debug\bank management system.exe.config
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\bin\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\bin\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank management system.csprojResolveAssemblyReference.cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.Login.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.MainMenu.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.Properties.Resources.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank management system.csproj.GenerateResource.Cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.AddAccounts.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.Settings.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.Agents.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.Transaction.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system\bank management system\obj\Debug\bank_management_system.splash.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\bin\Debug\bank management system.exe.config
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\bin\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\bin\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank management system.csprojResolveAssemblyReference.cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.AddAccounts.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.Agents.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.Login.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.MainMenu.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.Properties.Resources.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.Settings.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.splash.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank_management_system.Transaction.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\c#\bank management system 11\bank management system\obj\Debug\bank management system.csproj.GenerateResource.Cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\bin\Debug\bank management system.exe.config
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\bin\Debug\bank management system.exe
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\bin\Debug\bank management system.pdb
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank management system.csprojResolveAssemblyReference.cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.AddAccounts.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Agents.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Login.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.MainMenu.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Properties.Resources.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Settings.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.splash.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Transaction.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank management system.csproj.GenerateResource.Cache
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.checkingform.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Depositeform.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Transfer.resources
+C:\Users\Abdisamid\Documents\SEMESTER THREE\practice\bank management system 1.2\bank management system\obj\Debug\bank_management_system.Withdrawform.resources
+C:\Users\Abdisamid\OneDrive\Desktop\bank management system 1.2\bank management system\bin\Debug\bank management system.exe.config
+C:\Users\Abdisamid\OneDrive\Desktop\bank management system 1.2\bank management system\obj\Debug\bank management system.exe
+C:\Users\Abdisamid\OneDrive\Desktop\bank management system 1.2\bank management system\obj\Debug\bank management system.pdb
